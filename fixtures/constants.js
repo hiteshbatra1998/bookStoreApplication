@@ -1,0 +1,12 @@
+export const user = "Hitesh";
+export const password = "Password@123";
+export const bookStoreURL = "https://demoqa.com/books";
+export const bookStoreText = 'Book Store Application';
+export const loginUrl = 'https://demoqa.com/login';
+export const logoutText = "Log out";
+export const searchPlaceHolderText="Type to search"
+export const searchText = "Learning JavaScript Design Patterns"
+export const baseURL = 'https://demoqa.com';
+export const userNamePlaceholder = 'UserName';
+export const passwordPlaceholder = 'Password';
+export const filePath = 'bookDetails.json';
