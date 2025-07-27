@@ -1,4 +1,4 @@
-To run teh test cases in the project : 
+To run test cases in the project : 
 - Clone the repository
 - Open code in any IDE
 - run npm install
