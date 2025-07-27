@@ -10,3 +10,13 @@ export const baseURL = 'https://demoqa.com';
 export const userNamePlaceholder = 'UserName';
 export const passwordPlaceholder = 'Password';
 export const filePath = 'bookDetails.json';
+export const firstName = "Hitesh";
+export const lastName = "Batra";
+export const apiBaseURL = "https://reqres.in/api";
+export const apiKey = "reqres-free-v1"; // or any required header
+export const updatedFirstName = "UpdatedHitesh";
+export const updatedLastName = "UpdatedBatra";
+// These dummy ID and values are taken from reqres.in API for testing purposes
+export const dummyUserId = 2; // Mocking userId for demonstration, as reqres.in may not return the same ID every time and reqres have id saved from 1-12
+export const dummeFirstName = "Janet"
+export const dummyLastName = "Weaver";
